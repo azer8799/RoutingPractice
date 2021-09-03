@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+
+.image {
+  width: 70vw;
+}
+
+.item-link {
+  color: #000000;
+  text-decoration: none;
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+.blog-card {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border: 1px solid grey;
+  margin: 15px;
+  border-radius: 15px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
